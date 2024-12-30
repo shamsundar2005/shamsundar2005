@@ -1,8 +1,18 @@
 # 👋 Hey there! I'm **Shamsundar K**  
 🚀 **Aspiring Full Stack Developer | Data Scientist | AI/ML Enthusiast**  
 🔍 Currently learning **Deep Learning**, **Cloud Computing**, and **Advanced Data Science**.
-
 ---
+
+
+<p align="center">
+  <a href="https://github.com/shamsundar2005">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+Shamsundar%27s+Profile!;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;LeetCode+Problem+Solver" alt="Typing Animation" />
+  </a>
+</p>
+
+
+
+
 
 ### 🚀 **About Me**
 
@@ -27,6 +37,9 @@ I'm a **third-year AI & ML** student at **Kongu Engineering College**, driven by
 | ![Power BI](https://img.shields.io/badge/-Power%20BI-00A1E4?style=flat&logo=powerbi&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) | |
 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | |
+
+
+
 
 
 
@@ -61,18 +74,21 @@ Here's a glimpse into the projects I've built:
 
 ### 📊 **GitHub Stats**  
 ![Shamsundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsundar2005&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shamsundarak2005)](https://github.com/KnlnKS/leetcode-stats)
+
+### 📊**Leetcode Stats**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shamsundarak2005?theme=dark)](https://leetcode.com/shamsundarak2005)
 ---
 
 ### 📣 **Connect with Me!**
 
-I’d love to hear from you. Let’s collaborate or chat about tech, coding, and life!  
+I’d love to hear from you. Let’s collaborate or chat about tech, coding!  
 - [LinkedIn](https://www.linkedin.com/in/sham-sundar/)
 - [GitHub](https://github.com/shamsundar2005)
 - [Email](mailto:shamsundarak2005@gmail.com)
 - [Portfolio](https://shamsundar.dev)
 
 ---
+
 
 ### 📈 **My Learning Journey**
 
@@ -91,5 +107,4 @@ I’d love to hear from you. Let’s collaborate or chat about tech, coding, and
 I am determined to secure a **Full Stack Developer** role and make a significant contribution to the **AI/ML** field. My ultimate goal is to work on innovative projects that drive change and impact real-world problems.
 
 ---
-
 > _"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt_
