@@ -61,7 +61,7 @@ Here's a glimpse into the projects I've built:
 
 ### 📊 **GitHub Stats**  
 ![Shamsundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsundar2005&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=shamsundarak2005&theme=dark)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shamsundarak2005)](https://github.com/KnlnKS/leetcode-stats)
 ---
 
 ### 📣 **Connect with Me!**
