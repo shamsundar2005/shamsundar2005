@@ -83,13 +83,22 @@ Here's a glimpse into the projects I've built:
 ### 📣 **Connect with Me!**
 
 I’d love to hear from you. Let’s collaborate or chat about tech, coding!  
-- [LinkedIn](https://www.linkedin.com/in/sham-sundar/)
-- [GitHub](https://github.com/shamsundar2005)
-- [Email](mailto:shamsundarak2005@gmail.com)
-- [Portfolio](https://shamsundar.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sham-sundar/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/shamsundar2005">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub" width="120"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shamsundarak2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="120"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://shamsundar.dev">
+    <img src="https://img.shields.io/badge/Portfolio-%23F1F1F1?style=flat&logo=html5&logoColor=black" alt="Portfolio" width="120"/>
+  </a>
+</p>
 
 ---
-
 
 ### 📈 **My Learning Journey**
 
