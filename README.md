@@ -103,9 +103,9 @@ I’d love to hear from you. Let’s collaborate or chat about tech, coding!
 ### 📈 **My Learning Journey**
 
 - 📚 **Books I’m Reading**:
-  "Operating System Concepts" by Abraham Silberschatz 
-  "Deep Learning" by Ian Goodfellow
-  "The Little Book that Beats the Market" by Joel GreenBlatt
+ - "Operating System Concepts" by Abraham Silberschatz 
+ - "Deep Learning" by Ian Goodfellow
+ - "The Little Book that Beats the Market" by Joel GreenBlatt
   
 - 💡 **Tools & Resources I Use**:  
   - **LeetCode** for problem-solving  
