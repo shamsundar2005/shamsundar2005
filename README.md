@@ -48,10 +48,10 @@ I'm a **third-year AI & ML** student at **Kongu Engineering College**, driven by
 
 Here's a glimpse into the projects I've built:
 
-- **[Real-time Object Detection with YOLOv5](https://github.com/shamsundar2005/yolo-object-detection)**  
+- **[Real-time Object Detection with YOLOv5](https://github.com/shamsundar2005/realtime-object-detection-app)**  
   A deep learning project for detecting objects in real-time using YOLOv5.
 
-- **[Portfolio Website](https://github.com/shamsundar2005/portfolio-website)**  
+- **[Portfolio Website](https://shamsundar.tech/)**  
   A personal website built with React and deployed on **Netlify** showcasing my skills and projects.
 
 - **[MediLink Doctor-patient Appointment Platform](https://github.com/shamsundar2005/MedilLink-Doctor_Appointment_Booking_System.git)**  
