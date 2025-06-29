@@ -93,7 +93,7 @@ I’d love to hear from you. Let’s collaborate or chat about tech, coding!
   <a href="mailto:shamsundarak2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="120"/>
   </a>&nbsp;&nbsp;
-  <a href="https://shamsundar.dev">
+  <a href="https://shamsundar.tech">
     <img src="https://img.shields.io/badge/Portfolio-%23F1F1F1?style=flat&logo=html5&logoColor=black" alt="Portfolio" width="120"/>
   </a>
 </p>
